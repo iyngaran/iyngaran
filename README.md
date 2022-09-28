@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iyngaran</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Iyngaran</h1>
 <h3 align="center">A passionate data scientist and full stack software application developer</h3>
 
 - 🔭 I’m currently working on **A Personalized Suggestive Food Facts application**
